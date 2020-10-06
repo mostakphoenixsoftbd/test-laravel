@@ -1,0 +1,11 @@
+Google Drive API for Laravel File System Details
+
+ Your Client ID
+1093372965862-3qun4p7vu52f24mrk7ac8o7hrq9rgom3.apps.googleusercontent.com
+
+Your Client Secret 
+
+z0efWoAQ-dGKDJdKyvNZ9k9q
+
+
+Authorization Code: 4/4wF10jHyV3ySwD3uRWcc6hilGJlBOG6IJqT1-l7RFgMto7JF38YPZ4O8AVlbAThafcv3_P-cp0WSvi5lg9cfC9s
